@@ -1,0 +1,3 @@
+Modificar el mensaje Flash para update y create
+- layouts/_messages.html.erb
+- modificar "Create Article" button. Esta muy pegado
