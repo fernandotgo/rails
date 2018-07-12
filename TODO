@@ -1,3 +1,2 @@
-Modificar el mensaje Flash para update y create
-- layouts/_messages.html.erb
-- modificar "Create Article" button. Esta muy pegado
+Modificar creacion de articulo
+-> Al crear un articulo, no pasa bien la variable del autor
